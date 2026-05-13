@@ -151,4 +151,4 @@ if __name__ == "__main__":
 <img width="450" height="307" alt="image" src="https://github.com/user-attachments/assets/6851fa80-835b-4654-b4ff-8b15084b10bb" />
 
 ### RESULT
-Thus a Cryptarithmetic Problem was solved using Python successfully
+Thus a Cryptarithmetic Problem was solved using Python successfully.
